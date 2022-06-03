@@ -1,0 +1,3 @@
+Um dos aspectos mais confusos do uso do Markdown é que praticamente todos os aplicativos do Markdown implementam uma versão ligeiramente diferente do Markdown. Essas variantes do Markdown são comumente chamadas de sabores . É seu trabalho dominar qualquer tipo de Markdown que seu aplicativo tenha implementado.
+
+Para entender o conceito de sabores do Markdown, pode ser útil pensar neles como dialetos de linguagem. As pessoas em Nova York falam inglês assim como as pessoas em Londres, mas há diferenças substanciais entre os dialetos usados ​​em ambas as cidades. O mesmo vale para pessoas que usam diferentes aplicativos Markdown. Usar o Dillinger para escrever com Markdown é uma experiência muito diferente do que usar o Ulysses .
