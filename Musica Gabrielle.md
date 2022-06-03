@@ -37,3 +37,5 @@ I don't wanna talk about who's doin' it first
 As it was
 You know it's not the same as it was
 As it was, as it was
+
+Compositor: Harry Styles
